@@ -1,7 +1,8 @@
-# Deep Learning dataset
+# Deep learning dataset
 Online link for available dataset
 
 
 
-#2 Blur detection
+## Detection
+### Blur detection dataset
 http://www.cse.cuhk.edu.hk/~leojia/projects/dblurdetect/dataset.html
