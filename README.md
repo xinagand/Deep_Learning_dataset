@@ -7,7 +7,8 @@ https://riemenschneider.hayko.at/vision/dataset/index.php
 ### CVonline: Image Databases
 http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#surveillance
 
-
+### The Numenta Anomaly Benchmark (NAB)
+https://github.com/numenta/NAB
 
 ## Detection
 ### Blur detection dataset
